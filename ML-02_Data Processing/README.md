@@ -14,6 +14,8 @@ This project performs a full exploratory data analysis (EDA) and preprocessing p
 CH02/
 ├── lab.py
 ├── food.csv
+├── food-nutrients-analysis.ipynb
+├── which-foods-should-you-choose.ipynb
 └── README.md
 ```
 
