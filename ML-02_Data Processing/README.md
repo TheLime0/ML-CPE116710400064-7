@@ -1,7 +1,7 @@
 # 🍔 Food Vitamins, Minerals, Macronutrient
-# Food Dataset – Data Exploration, Visualization, Cleaning & Feature Engineering
+# 🍔 Food Vitamins, Minerals, Macronutrient Dataset – Data Exploration, Visualization, Cleaning & Feature Engineering
 
-This project performs a full exploratory data analysis (EDA) and preprocessing pipeline on the **Food** dataset. It covers dataset exploration, visualization, data cleaning, and feature engineering, structured into four labs/parts as required by the assignment.
+This project performs a full exploratory data analysis (EDA) and preprocessing pipeline on the **🍔 Food Vitamins, Minerals, Macronutrient** dataset. It covers dataset exploration, visualization, data cleaning, and feature engineering, structured into four labs/parts as required by the assignment.
 
 ## Dataset
 
