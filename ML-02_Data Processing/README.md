@@ -1,6 +1,5 @@
 # 🍔 Food Vitamins, Minerals, Macronutrient
 # Food Dataset Exploration – Data Exploration, Visualization, Cleaning & Feature Engineering
-# Food Dataset Exploration – Data Exploration, Visualization, Cleaning & Feature Engineering
  
 This project performs a full exploratory data analysis (EDA) and preprocessing pipeline on a **Food** dataset. It covers dataset exploration, visualization, data cleaning, and feature engineering, structured into four labs/parts as required by the assignment.
  
@@ -11,7 +10,11 @@ This project performs a full exploratory data analysis (EDA) and preprocessing p
  
 ## Project Structure
  
-CH02/├── lab.py├── food.csv└── README.md 
+CH02/├── lab.py
+     ├── food.csv
+     ├── food-nutrients-analysis.ipynb
+     ├── which-foods-should-you-choose.ipynb
+     └── README.md 
 ## Requirements
  
 Install the required Python packages before running:
