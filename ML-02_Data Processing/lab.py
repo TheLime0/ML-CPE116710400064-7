@@ -4,16 +4,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.preprocessing import LabelEncoder
 
-# ==========================================
-# 0. สร้าง Dataset จำลอง (สำหรับทดสอบโค้ด)
-# ==========================================
-data = {
-    'Age': [25, 30, 35, np.nan, 40, 30, 200, 45], # มี Missing และ Outlier (200)
-    'Salary': [50000, 60000, np.nan, 80000, 90000, 60000, 75000, 85000], # มี Missing และ ซ้ำ
-    'Gender': ['Male', 'Female', 'Female', 'Male', 'Female', 'Female', 'Male', 'Female'],
-    'Education': ['Bachelor', 'Master', 'PhD', 'Bachelor', 'Master', 'Master', 'Bachelor', 'PhD'],
-    'Purchased': ['No', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes'] # Target Class
-}
 df = pd.read_csv(ML-02_Data Processing/food.csv)
 
 # ==========================================
