@@ -1,6 +1,4 @@
 
-
-
 """
 Read CSV
 convert text to number
@@ -14,7 +12,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 
-CSV_PATH = Path(__file__).resolve().parent.parent / "data-animal" / "animal_dataset.csv"
+CSV_PATH = Path(dogs_dataset.csv).resolve().parent.parent / "data-animal" / "dogs_dataset.csv"
 
 TARGET = "Diet_Type"
 
