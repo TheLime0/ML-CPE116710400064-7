@@ -15,6 +15,8 @@
 
 โปรเจกต์นี้ใช้ข้อมูล 2 ชุดที่ผู้ใช้ให้มา:
 
+- **แหล่งที่มา:** [🐶 Dogs Dataset - 3000 Records 🐾](https://www.kaggle.com/datasets/waqi786/dogs-dataset-3000-records)
+
 1. **`dogs_dataset.csv`** (ข้อมูลตาราง, 3,000 แถว) — คอลัมน์ `Breed, Age (Years), Weight (kg), Color, Gender`
    ใช้เป็นข้อมูลหลักสำหรับ Regression (Age) และ Classification (Gender) เพราะมี label จริงติดมากับข้อมูล
 
