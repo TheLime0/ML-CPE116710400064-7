@@ -1,0 +1,26 @@
+{
+  "k_values_tested": [
+    3,
+    5,
+    7
+  ],
+  "accuracy_by_k": {
+    "3": 0.51,
+    "5": 0.515,
+    "7": 0.5017
+  },
+  "best_k": 5,
+  "best_accuracy": 0.515,
+  "classes": [
+    "Female",
+    "Male"
+  ],
+  "features_used": [
+    "Breed",
+    "Age",
+    "Weight",
+    "Color"
+  ],
+  "n_train": 2400,
+  "n_test": 600
+}
