@@ -1,22 +1,22 @@
-# LEB 1: KNN on a Dataset of Your Choice
+# LEB 1: KNN บนชุดข้อมูลที่เลือกเอง
 
-**Dataset:** `dogs_dataset.csv` — 3000 dogs, columns: `Breed`, `Age (Years)`, `Weight (kg)`, `Color`, `Gender`.
+**ชุดข้อมูล:** `dogs_dataset.csv` — สุนัข 3000 ตัว มีคอลัมน์: `Breed` (สายพันธุ์), `Age (Years)` (อายุ), `Weight (kg)` (น้ำหนัก), `Color` (สี), `Gender` (เพศ)
 
-**Task:** Predict `Gender` (Female/Male) from `Breed`, `Age`, `Weight`, `Color` using K-Nearest Neighbors.
+**โจทย์:** ทำนาย `Gender` (Female/Male) จาก `Breed`, `Age`, `Weight`, `Color` ด้วยวิธี K-Nearest Neighbors
 
-## Pipeline
-1. **Load & explore** — 3000 rows, no missing values, 53 breeds, 16 colors, target is balanced (1520 Female / 1480 Male).
-2. **Preprocess** — categorical features (`Breed`, `Color`) one-hot encoded; numeric features (`Age`, `Weight`) standardized with `StandardScaler`. All fitted only on the training split to avoid leakage.
-3. **Split** — 80% train / 20% test, stratified on `Gender`, `random_state=42`.
-4. **Train** — `KNeighborsClassifier` at k = 3, 5, 7.
-5. **Evaluate** — accuracy on the held-out test set.
+## ขั้นตอนการทำงาน (Pipeline)
+1. **โหลดและสำรวจข้อมูล** — 3000 แถว ไม่มีค่าว่าง มี 53 สายพันธุ์ 16 สี และคลาสเป้าหมายมีสัดส่วนใกล้เคียงกัน (Female 1520 / Male 1480)
+2. **เตรียมข้อมูล (Preprocess)** — ฟีเจอร์เชิงหมวดหมู่ (`Breed`, `Color`) แปลงด้วย one-hot encoding ส่วนฟีเจอร์เชิงตัวเลข (`Age`, `Weight`) ปรับสเกลด้วย `StandardScaler` โดย fit เฉพาะบนชุด train เพื่อป้องกัน data leakage
+3. **แบ่งข้อมูล** — 80% train / 20% test แบบ stratified ตาม `Gender`, `random_state=42`
+4. **ฝึกโมเดล** — `KNeighborsClassifier` ที่ k = 3, 5, 7
+5. **ประเมินผล** — วัดความแม่นยำ (accuracy) บนชุด test ที่ไม่เคยเห็นมาก่อน
 
-Run it:
+รันโค้ดด้วยคำสั่ง:
 ```bash
 python lab1_knn.py
 ```
 
-## Results
+## ผลลัพธ์
 
 | k | Accuracy |
 |---|----------|
@@ -24,20 +24,20 @@ python lab1_knn.py
 | 5 | **0.5150** |
 | 7 | 0.5017 |
 
-**Best k = 5**, accuracy = 0.515
+**ค่า k ที่ดีที่สุด = 5**, accuracy = 0.515
 
 ![Accuracy vs k](outputs/accuracy_vs_k.png)
 ![Confusion Matrix](outputs/confusion_matrix_best_k.png)
 
-## Discussion
+## อภิปรายผล
 
-All three k values land close to 51%, barely above the 50% baseline of random guessing on a balanced two-class target. Accuracy is not monotonic in k here — it rises slightly from k=3 to k=5, then falls at k=7 — but the differences (≤1.3 points) are within noise for a 600-row test set, so no k value meaningfully outperforms another.
+ทั้งสามค่า k ให้ผลใกล้เคียงกันที่ประมาณ 51% ซึ่งสูงกว่าเส้นฐาน (baseline) ของการเดาสุ่มในปัญหาสองคลาสที่สมดุลกัน (50%) เพียงเล็กน้อยเท่านั้น ความแม่นยำไม่ได้เพิ่มขึ้นแบบเป็นเส้นตรงตามค่า k — เพิ่มขึ้นเล็กน้อยจาก k=3 ไป k=5 แล้วลดลงที่ k=7 — แต่ความแตกต่างเหล่านี้ (ไม่เกิน 1.3 จุด) ถือว่าอยู่ในระดับความคลาดเคลื่อนปกติสำหรับชุดทดสอบขนาด 600 แถว จึงสรุปได้ว่าไม่มีค่า k ใดที่ให้ผลดีกว่าค่าอื่นอย่างมีนัยสำคัญ
 
-The underlying reason is the dataset itself: a dog's breed, age, weight, and coat color have no real biological or statistical relationship to its sex. Breed and color are attributes of the dog population, not sex-linked traits, and age/weight vary by breed rather than by gender. KNN can only exploit structure that exists in the feature space, and here that structure doesn't correlate with the target — so results near chance-level are the expected, correct outcome rather than a modeling failure. This is a useful illustration that KNN's performance is bounded by how informative the input features are, not just by tuning k.
+สาเหตุหลักมาจากลักษณะของชุดข้อมูลเอง กล่าวคือ สายพันธุ์ อายุ น้ำหนัก และสีขนของสุนัข ไม่มีความสัมพันธ์ทางชีววิทยาหรือทางสถิติกับเพศของสุนัขจริง ๆ สายพันธุ์และสีเป็นคุณลักษณะของประชากรสุนัขโดยรวม ไม่ใช่ลักษณะที่ผูกกับเพศ ส่วนอายุและน้ำหนักก็แปรผันไปตามสายพันธุ์มากกว่าเพศ โมเดล KNN จะสามารถใช้ประโยชน์จากโครงสร้างที่มีอยู่ในพื้นที่ฟีเจอร์ได้ก็ต่อเมื่อโครงสร้างนั้นมีความสัมพันธ์กับเป้าหมายเท่านั้น ในกรณีนี้ไม่มีความสัมพันธ์ดังกล่าว ผลลัพธ์ที่ใกล้เคียงระดับการเดาสุ่มจึงเป็นผลลัพธ์ที่ถูกต้องและคาดการณ์ได้ ไม่ใช่ความล้มเหลวของโมเดล ตัวอย่างนี้แสดงให้เห็นว่าประสิทธิภาพของ KNN ถูกจำกัดด้วยคุณภาพและความเกี่ยวข้องของฟีเจอร์ที่ป้อนเข้าไป มากกว่าการปรับจูนค่า k เพียงอย่างเดียว
 
-## Files
-- `dogs_dataset.csv` — dataset
-- `lab1_knn.py` — full pipeline (load → preprocess → train k=3,5,7 → evaluate → plots)
-- `outputs/accuracy_vs_k.png` — accuracy across k values
-- `outputs/confusion_matrix_best_k.png` — confusion matrix for the best k
-- `outputs/lab1_knn_results.json` — numeric results
+## ไฟล์ในโฟลเดอร์
+- `dogs_dataset.csv` — ชุดข้อมูล
+- `lab1_knn.py` — โค้ด pipeline ทั้งหมด (โหลด → เตรียมข้อมูล → ฝึกโมเดลที่ k=3,5,7 → ประเมินผล → สร้างกราฟ)
+- `outputs/accuracy_vs_k.png` — กราฟ accuracy เทียบกับค่า k
+- `outputs/confusion_matrix_best_k.png` — confusion matrix ของค่า k ที่ดีที่สุด
+- `outputs/lab1_knn_results.json` — ผลลัพธ์เชิงตัวเลข
