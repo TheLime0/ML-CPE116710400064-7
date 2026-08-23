@@ -1,0 +1,26 @@
+{
+  "kernels_tested": [
+    "linear",
+    "poly",
+    "rbf"
+  ],
+  "accuracy_by_kernel": {
+    "linear": 0.4817,
+    "poly": 0.5267,
+    "rbf": 0.545
+  },
+  "best_kernel": "rbf",
+  "best_accuracy": 0.545,
+  "classes": [
+    "Female",
+    "Male"
+  ],
+  "features_used": [
+    "Breed",
+    "Age",
+    "Weight",
+    "Color"
+  ],
+  "n_train": 2400,
+  "n_test": 600
+}
