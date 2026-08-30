@@ -1,6 +1,6 @@
 # ใบงานที่ 5: Support Vector Machine บนชุดข้อมูลที่เลือกเอง
 
-**ชุดข้อมูล:** `dogs_dataset.csv` — สุนัข 3000 ตัว มีคอลัมน์: `Breed` (สายพันธุ์), `Age (Years)` (อายุ), `Weight (kg)` (น้ำหนัก), `Color` (สี), `Gender` (เพศ)
+**ชุดข้อมูล:** `[dogs_dataset.csv](https://www.kaggle.com/datasets/waqi786/dogs-dataset-3000-records)` — สุนัข 3000 ตัว มีคอลัมน์: `Breed` (สายพันธุ์), `Age (Years)` (อายุ), `Weight (kg)` (น้ำหนัก), `Color` (สี), `Gender` (เพศ)
 
 **โจทย์:** ทำนาย `Gender` (Female/Male) จาก `Breed`, `Age`, `Weight`, `Color` ด้วย Support Vector Machine และเปรียบเทียบ kernel แบบต่าง ๆ
 
