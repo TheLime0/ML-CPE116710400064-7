@@ -1,6 +1,7 @@
 # ใบงานที่ 4: KNN บนชุดข้อมูลที่เลือกเอง
 
 **ชุดข้อมูล:** (https://www.kaggle.com/datasets/waqi786/dogs-dataset-3000-records) — สุนัข 3000 ตัว มีคอลัมน์: `Breed` (สายพันธุ์), `Age (Years)` (อายุ), `Weight (kg)` (น้ำหนัก), `Color` (สี), `Gender` (เพศ)
+
 **โจทย์:** ทำนาย `Gender` (Female/Male) จาก `Breed`, `Age`, `Weight`, `Color` ด้วยวิธี K-Nearest Neighbors
 
 ## ขั้นตอนการทำงาน (Pipeline)
