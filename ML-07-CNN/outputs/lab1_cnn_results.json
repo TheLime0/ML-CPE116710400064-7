@@ -1,0 +1,58 @@
+{
+  "epochs_tested": [
+    5,
+    10,
+    20,
+    50
+  ],
+  "accuracy_by_epochs": {
+    "5": 0.9472,
+    "10": 0.9667,
+    "20": 0.975,
+    "50": 0.9861
+  },
+  "configurations_tested": {
+    "1 conv (16), dense 32": {
+      "conv_filters": [
+        16
+      ],
+      "dense_neurons": 32
+    },
+    "2 conv (16-32), dense 32": {
+      "conv_filters": [
+        16,
+        32
+      ],
+      "dense_neurons": 32
+    },
+    "2 conv (16-32), dense 64": {
+      "conv_filters": [
+        16,
+        32
+      ],
+      "dense_neurons": 64
+    },
+    "3 conv (16-32-64), dense 64": {
+      "conv_filters": [
+        16,
+        32,
+        64
+      ],
+      "dense_neurons": 64
+    }
+  },
+  "accuracy_by_configuration": {
+    "1 conv (16), dense 32": 0.9778,
+    "2 conv (16-32), dense 32": 0.9694,
+    "2 conv (16-32), dense 64": 0.9694,
+    "3 conv (16-32-64), dense 64": 0.975
+  },
+  "best_configuration": "1 conv (16), dense 32",
+  "best_accuracy": 0.9778,
+  "final_train_accuracy_best": 0.9961,
+  "final_val_accuracy_best": 0.9792,
+  "final_train_loss_best": 0.0399,
+  "final_val_loss_best": 0.0814,
+  "n_train": 1437,
+  "n_test": 360
+}
