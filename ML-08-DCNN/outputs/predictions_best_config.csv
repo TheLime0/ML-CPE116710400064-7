@@ -1,0 +1,601 @@
+Breed,Age,Weight,Color,Actual,Predicted,Prob_Male
+Great Dane,6,20,Spotted,Male,Female,0.4525
+Pug,6,6,Blue,Male,Male,0.5288
+Chesapeake Bay Retriever,5,10,Blue,Female,Male,0.5299
+Lhasa Apso,12,27,Brindle,Male,Male,0.5079
+Australian Shepherd,5,38,Red,Female,Male,0.5228
+Rottweiler,2,33,Black,Male,Female,0.4723
+Cavalier King Charles Spaniel,12,59,Spotted,Male,Female,0.4437
+Boston Terrier,7,43,Cream,Male,Female,0.4881
+Doberman Pinscher,13,29,Black and Tan,Female,Male,0.5077
+Whippet,13,24,Bicolor,Male,Female,0.427
+Shih Tzu,5,15,Red,Female,Female,0.4232
+Poodle,10,55,Black and Tan,Male,Female,0.4969
+Australian Shepherd,14,28,Tricolor,Female,Male,0.5222
+Australian Shepherd,9,21,Cream,Male,Male,0.554
+Great Dane,10,10,Tan,Male,Female,0.4662
+Miniature Schnauzer,6,42,Black,Male,Male,0.5243
+Bichon Frise,2,15,White,Female,Female,0.4611
+Rottweiler,7,18,Tricolor,Male,Female,0.4357
+Maltese,14,20,Red,Male,Female,0.4812
+Maltese,10,26,Brown,Male,Female,0.4744
+Akita,8,35,Bicolor,Female,Female,0.4973
+German Shepherd,1,54,Black and Tan,Male,Male,0.5023
+German Shepherd,14,19,Red,Male,Female,0.4248
+Siberian Husky,7,28,Black,Male,Male,0.5053
+Bloodhound,6,58,White,Female,Female,0.4501
+Vizsla,9,48,Red,Female,Female,0.4401
+Bull Terrier,2,8,Sable,Female,Female,0.3971
+Havanese,13,17,Red,Male,Female,0.2841
+Shiba Inu,7,35,Tan,Male,Female,0.44
+Pekingese,2,39,Merle,Female,Male,0.509
+Airedale Terrier,14,44,Sable,Male,Female,0.4964
+Belgian Malinois,3,6,Bicolor,Female,Male,0.5411
+Papillon,11,39,Spotted,Female,Male,0.5277
+Bulldog,2,5,Merle,Male,Female,0.4355
+Irish Setter,1,53,Black,Female,Female,0.4671
+Jack Russell Terrier,8,35,Blue,Male,Male,0.5048
+Bulldog,3,32,Cream,Male,Female,0.4538
+Saint Bernard,13,29,Red,Female,Female,0.4101
+French Bulldog,8,28,Bicolor,Female,Female,0.404
+Shiba Inu,2,43,Gray,Male,Female,0.4574
+Alaskan Malamute,8,9,Red,Male,Female,0.4998
+Weimaraner,12,31,Sable,Female,Female,0.4311
+Alaskan Malamute,8,22,Blue,Male,Male,0.5557
+West Highland White Terrier,5,6,Brown,Male,Male,0.5216
+Pekingese,2,35,Black and Tan,Male,Female,0.4918
+Whippet,4,20,Red,Male,Female,0.412
+Jack Russell Terrier,7,22,Tricolor,Female,Female,0.4606
+Rottweiler,3,52,Merle,Male,Female,0.4918
+Shetland Sheepdog,4,29,Black and White,Male,Male,0.5592
+Vizsla,8,38,Black and Tan,Female,Male,0.5743
+Bernese Mountain Dog,6,52,Brindle,Male,Male,0.5674
+Shiba Inu,10,29,Black and Tan,Male,Male,0.5401
+Vizsla,5,41,Black and White,Female,Male,0.5973
+Beagle,3,19,Black and Tan,Female,Male,0.5792
+French Bulldog,8,44,Sable,Female,Female,0.3884
+Dachshund,11,46,Blue,Male,Male,0.5218
+Basenji,12,50,Cream,Male,Male,0.5679
+Cavalier King Charles Spaniel,11,38,Gray,Male,Female,0.456
+Boston Terrier,14,8,Spotted,Male,Female,0.4365
+Poodle,2,56,Blue,Male,Male,0.5484
+Irish Setter,8,15,Black and White,Male,Female,0.4801
+Miniature Schnauzer,11,48,White,Male,Male,0.5439
+Havanese,13,44,White,Male,Female,0.3145
+Whippet,9,42,Cream,Male,Male,0.5106
+Rottweiler,13,22,Gray,Female,Female,0.4785
+Papillon,8,5,Brown,Female,Male,0.5016
+West Highland White Terrier,8,8,Red,Male,Female,0.4368
+Shetland Sheepdog,2,21,Spotted,Female,Female,0.4772
+Weimaraner,14,40,Cream,Male,Female,0.4806
+Bulldog,10,22,Gray,Male,Female,0.4169
+Boston Terrier,8,39,Cream,Male,Female,0.4904
+Golden Retriever,5,57,Cream,Female,Female,0.424
+Pekingese,2,10,Black,Female,Female,0.499
+Pekingese,6,52,Bicolor,Male,Female,0.4896
+Beagle,3,8,Blue,Female,Male,0.5638
+Bloodhound,8,56,Tricolor,Female,Female,0.4368
+Airedale Terrier,13,43,Cream,Female,Female,0.4872
+Chesapeake Bay Retriever,12,27,Cream,Male,Male,0.5023
+Chihuahua,7,18,Merle,Male,Female,0.4482
+Samoyed,13,48,Bicolor,Male,Female,0.4217
+Australian Shepherd,10,49,Merle,Female,Male,0.5354
+Bulldog,14,40,Black and Tan,Male,Female,0.4466
+Golden Retriever,1,59,Tricolor,Male,Female,0.4
+Golden Retriever,7,24,Blue,Male,Male,0.5055
+Bulldog,7,19,Brown,Female,Female,0.4469
+Dachshund,3,18,Gray,Male,Female,0.4675
+Chihuahua,10,14,Sable,Female,Female,0.4268
+Alaskan Malamute,4,31,Merle,Male,Male,0.5002
+Pekingese,1,52,Merle,Male,Male,0.5062
+Border Collie,8,16,Black,Female,Female,0.4947
+Pembroke Welsh Corgi,2,39,Black and White,Female,Female,0.4918
+Airedale Terrier,7,26,Cream,Male,Female,0.4863
+Samoyed,11,29,Bicolor,Male,Female,0.4211
+Boxer,4,16,Gray,Female,Female,0.4468
+Cocker Spaniel,7,56,White,Female,Female,0.4287
+Rottweiler,8,29,Tan,Female,Female,0.4679
+Boston Terrier,8,8,Bicolor,Male,Female,0.417
+Basenji,14,16,Bicolor,Female,Male,0.5358
+Maltese,4,16,Black and Tan,Male,Female,0.4918
+German Shepherd,1,45,Cream,Female,Female,0.457
+Beagle,8,25,Tricolor,Female,Female,0.4981
+Miniature Schnauzer,10,11,Tricolor,Male,Male,0.547
+Poodle,11,40,Brindle,Female,Male,0.5316
+Labrador Retriever,5,36,Merle,Male,Female,0.4509
+Bernese Mountain Dog,12,54,Tricolor,Female,Female,0.4637
+Rottweiler,6,17,Blue,Female,Male,0.5046
+Yorkshire Terrier,11,19,Merle,Female,Male,0.5232
+Boxer,11,14,Black,Male,Female,0.4404
+Saint Bernard,3,41,Tan,Male,Female,0.4513
+Lhasa Apso,10,8,Tan,Female,Male,0.5214
+Pomeranian,6,48,Black,Female,Male,0.504
+Golden Retriever,2,45,Black and Tan,Male,Male,0.5007
+Bernese Mountain Dog,11,12,Blue,Female,Male,0.5514
+Dachshund,11,41,Tan,Female,Female,0.466
+Pembroke Welsh Corgi,13,51,Bicolor,Male,Female,0.4614
+Labrador Retriever,5,31,Blue,Female,Female,0.49
+Siberian Husky,10,32,Brindle,Male,Male,0.5374
+Bichon Frise,4,26,Tan,Female,Female,0.4965
+Belgian Malinois,14,50,Cream,Male,Male,0.5607
+Pekingese,10,51,Tricolor,Male,Male,0.507
+Cavalier King Charles Spaniel,5,46,Blue,Male,Male,0.5094
+Poodle,10,55,Blue,Female,Male,0.5246
+Samoyed,8,56,Tricolor,Male,Female,0.4089
+Poodle,7,35,Gray,Female,Female,0.4828
+Maltese,2,42,Black,Female,Female,0.4916
+Rottweiler,7,9,Sable,Male,Female,0.4666
+Poodle,10,13,Merle,Female,Female,0.4852
+Alaskan Malamute,14,11,Merle,Female,Male,0.5001
+Jack Russell Terrier,11,22,Brown,Male,Female,0.4459
+Saint Bernard,1,56,Black and Tan,Female,Male,0.5071
+French Bulldog,1,51,Tricolor,Female,Female,0.3543
+Cavalier King Charles Spaniel,7,30,Cream,Female,Female,0.4868
+Weimaraner,11,39,Tricolor,Male,Female,0.3999
+Pembroke Welsh Corgi,8,57,Red,Female,Female,0.4839
+Cavalier King Charles Spaniel,14,31,White,Male,Female,0.431
+Rottweiler,8,59,Black,Male,Female,0.453
+Doberman Pinscher,5,58,Sable,Male,Female,0.4534
+Bichon Frise,1,52,Black,Female,Male,0.5406
+Shih Tzu,2,38,Brown,Male,Female,0.4938
+Dogo Argentino,9,36,Black and White,Male,Male,0.5701
+Bulldog,13,40,Blue,Female,Female,0.4534
+German Shepherd,5,52,White,Female,Female,0.437
+Pug,9,49,Red,Female,Female,0.4441
+Golden Retriever,3,34,Brown,Female,Female,0.4413
+Bull Terrier,10,53,Spotted,Male,Female,0.3819
+Whippet,11,41,Brindle,Male,Male,0.5861
+Weimaraner,6,14,Brindle,Male,Male,0.5379
+Shih Tzu,5,20,Spotted,Male,Female,0.4421
+Pekingese,12,45,Spotted,Male,Male,0.5125
+Cocker Spaniel,3,59,Cream,Female,Female,0.4834
+Rottweiler,10,7,White,Female,Female,0.4402
+Bernese Mountain Dog,6,37,Black and White,Male,Male,0.5695
+Weimaraner,6,41,Spotted,Female,Female,0.4232
+Akita,10,13,Brindle,Male,Male,0.5488
+Chesapeake Bay Retriever,3,35,Gray,Female,Female,0.4725
+Weimaraner,5,51,Black,Male,Female,0.4776
+Boston Terrier,1,58,Blue,Male,Male,0.5112
+Chinese Shar-Pei,1,40,Black and White,Male,Male,0.5408
+Samoyed,14,32,Black and White,Female,Female,0.4947
+Bernese Mountain Dog,8,50,Spotted,Female,Female,0.4809
+Pekingese,1,50,Cream,Female,Female,0.4918
+French Bulldog,5,28,Merle,Female,Female,0.4074
+Pembroke Welsh Corgi,13,23,Brown,Female,Female,0.4918
+Pekingese,12,8,Tan,Male,Male,0.5187
+Papillon,9,10,Red,Male,Male,0.5134
+Great Dane,11,21,Gray,Male,Female,0.4641
+Poodle,12,30,Tricolor,Female,Female,0.4398
+Australian Shepherd,11,33,Sable,Male,Male,0.5311
+Pug,14,16,Brown,Female,Female,0.4817
+Bichon Frise,13,24,Merle,Male,Male,0.5145
+Beagle,14,6,Bicolor,Female,Male,0.5233
+Airedale Terrier,3,15,Red,Male,Female,0.4847
+Jack Russell Terrier,2,57,Spotted,Female,Female,0.4742
+Shih Tzu,13,22,Merle,Female,Female,0.475
+Cavalier King Charles Spaniel,1,34,Tan,Male,Female,0.4662
+Airedale Terrier,13,34,Tan,Male,Female,0.4937
+Bull Terrier,11,30,Brindle,Male,Female,0.4513
+Vizsla,7,14,Gray,Female,Female,0.4956
+Labrador Retriever,11,38,White,Female,Female,0.4568
+Lhasa Apso,1,18,Red,Female,Male,0.5121
+Jack Russell Terrier,11,50,Merle,Female,Female,0.4488
+Rottweiler,13,9,Spotted,Male,Female,0.4631
+Poodle,13,8,Blue,Female,Female,0.498
+German Shepherd,12,28,Bicolor,Female,Female,0.425
+Rottweiler,5,16,Black,Female,Female,0.4602
+Rottweiler,10,38,Red,Female,Female,0.4407
+Pekingese,7,16,Brindle,Female,Male,0.5035
+Alaskan Malamute,9,40,Gray,Male,Male,0.5062
+Pug,5,17,Merle,Female,Female,0.4797
+Weimaraner,12,26,Spotted,Female,Female,0.4178
+Pembroke Welsh Corgi,6,28,Brown,Male,Female,0.4918
+Doberman Pinscher,2,51,Black,Female,Female,0.4973
+Weimaraner,12,20,Cream,Male,Female,0.4779
+Dachshund,9,6,Blue,Male,Male,0.5168
+Chinese Shar-Pei,12,46,Brown,Male,Male,0.5092
+Boxer,1,36,Red,Female,Female,0.4225
+Alaskan Malamute,1,56,Red,Male,Female,0.499
+Great Dane,10,16,Cream,Male,Female,0.4653
+Chesapeake Bay Retriever,12,46,Red,Female,Female,0.4386
+Poodle,11,8,Bicolor,Male,Female,0.4331
+Boston Terrier,12,47,Black and Tan,Male,Female,0.4994
+Beagle,7,19,Black and White,Female,Male,0.5875
+Beagle,4,39,Cream,Female,Male,0.5429
+Great Dane,1,9,Brown,Female,Female,0.4744
+Bichon Frise,5,50,Spotted,Male,Female,0.4881
+Vizsla,1,51,Black,Male,Male,0.5526
+Pug,11,27,Brown,Female,Female,0.4917
+Weimaraner,3,22,Blue,Female,Male,0.5377
+Shih Tzu,1,34,Merle,Female,Female,0.4793
+Vizsla,6,42,Black and Tan,Female,Male,0.5778
+Border Collie,5,45,Tan,Male,Female,0.4772
+Chesapeake Bay Retriever,1,33,Brindle,Female,Male,0.5327
+Whippet,12,37,Black and White,Female,Male,0.5699
+Pug,4,44,White,Female,Female,0.4594
+Maltese,12,28,Black,Female,Female,0.473
+Bulldog,12,58,Cream,Female,Female,0.4465
+Dachshund,9,47,Brown,Male,Male,0.502
+Bloodhound,14,29,Bicolor,Female,Female,0.4396
+Saint Bernard,11,37,Sable,Male,Female,0.4328
+Beagle,14,13,Black and Tan,Male,Male,0.5676
+Samoyed,8,22,Black,Male,Female,0.444
+Chinese Shar-Pei,6,29,White,Female,Female,0.4176
+Whippet,13,59,Bicolor,Female,Female,0.4328
+Siberian Husky,5,25,Tan,Female,Female,0.4502
+Pomeranian,5,24,Gray,Female,Male,0.5009
+Basenji,2,8,Bicolor,Female,Male,0.5375
+Dogo Argentino,14,43,Sable,Male,Female,0.4851
+Samoyed,8,26,Gray,Female,Female,0.4379
+Havanese,11,55,Black,Female,Female,0.4161
+Rottweiler,13,20,Brindle,Female,Female,0.4939
+Labrador Retriever,6,14,Merle,Male,Female,0.4539
+Bernese Mountain Dog,7,44,Brindle,Female,Male,0.5702
+Lhasa Apso,1,20,Cream,Male,Female,0.4829
+Bull Terrier,14,56,Black and Tan,Female,Female,0.4357
+Labrador Retriever,4,46,Black,Male,Female,0.4801
+Basenji,2,57,Black,Female,Male,0.5744
+Cocker Spaniel,9,25,Black and Tan,Male,Female,0.4957
+Shetland Sheepdog,12,14,Sable,Female,Female,0.4766
+Samoyed,6,11,White,Female,Female,0.4123
+Chinese Shar-Pei,12,44,Cream,Male,Male,0.5064
+Golden Retriever,8,32,Black and White,Female,Male,0.5183
+Shiba Inu,4,29,Merle,Female,Female,0.4552
+Shetland Sheepdog,4,40,Cream,Female,Male,0.5052
+French Bulldog,7,10,Bicolor,Male,Female,0.4031
+Rottweiler,7,46,Tricolor,Female,Female,0.4359
+Alaskan Malamute,4,21,Brindle,Male,Male,0.5499
+Samoyed,12,40,Sable,Male,Female,0.4361
+Whippet,12,33,Bicolor,Female,Female,0.4293
+Golden Retriever,7,58,Gray,Female,Female,0.4124
+Dachshund,2,35,Spotted,Male,Female,0.4678
+Weimaraner,4,17,Black and Tan,Male,Male,0.5325
+Golden Retriever,11,30,Brown,Male,Female,0.4422
+Rottweiler,11,31,Black and Tan,Male,Female,0.4892
+Shih Tzu,7,7,Black and Tan,Male,Male,0.5166
+Border Collie,7,57,Cream,Male,Male,0.5053
+Miniature Schnauzer,1,17,Red,Female,Male,0.544
+Shetland Sheepdog,9,35,Merle,Female,Female,0.4971
+Alaskan Malamute,7,35,Gray,Female,Male,0.5068
+Siberian Husky,12,34,White,Female,Female,0.4194
+Jack Russell Terrier,11,40,Red,Female,Female,0.4558
+Miniature Schnauzer,7,26,Gray,Male,Male,0.5391
+French Bulldog,12,22,Spotted,Male,Female,0.3729
+Weimaraner,13,25,Black and White,Female,Male,0.5101
+Pekingese,11,5,Tricolor,Female,Male,0.51
+Alaskan Malamute,4,24,Black and Tan,Female,Male,0.5585
+Papillon,13,12,Bicolor,Male,Female,0.4994
+Chesapeake Bay Retriever,10,24,Black,Male,Female,0.4881
+Shetland Sheepdog,1,18,Bicolor,Male,Female,0.4659
+Havanese,13,53,Red,Female,Female,0.2881
+Boston Terrier,8,59,Black,Male,Female,0.4652
+Pomeranian,7,28,Brown,Male,Male,0.5133
+Poodle,4,32,Black,Female,Female,0.4747
+Schnauzer,11,38,White,Male,Female,0.4559
+German Shepherd,2,10,White,Male,Female,0.4289
+Papillon,5,9,Gray,Female,Male,0.5213
+Bloodhound,3,5,Gray,Female,Female,0.459
+Dachshund,9,36,Merle,Female,Female,0.4815
+Beagle,4,19,Black and Tan,Male,Male,0.5823
+Papillon,7,27,Black and White,Female,Male,0.5268
+Bernese Mountain Dog,6,36,Cream,Female,Male,0.5354
+West Highland White Terrier,6,21,Spotted,Female,Female,0.4603
+Dogo Argentino,2,16,Spotted,Female,Female,0.4824
+Shih Tzu,7,13,Sable,Female,Female,0.4524
+Schnauzer,11,42,Sable,Female,Female,0.469
+Chinese Shar-Pei,12,42,Bicolor,Male,Female,0.4109
+Papillon,2,30,Blue,Male,Male,0.5071
+Chesapeake Bay Retriever,13,19,Bicolor,Female,Female,0.4407
+Boxer,10,5,Red,Female,Female,0.4046
+Belgian Malinois,2,11,Black,Female,Male,0.5615
+Miniature Schnauzer,5,30,Brown,Male,Male,0.5187
+Alaskan Malamute,4,19,Tricolor,Female,Female,0.4873
+Dachshund,6,47,White,Male,Female,0.4492
+Samoyed,4,29,Gray,Male,Female,0.4416
+Shiba Inu,6,44,Merle,Female,Female,0.4517
+Belgian Malinois,7,37,Spotted,Male,Male,0.5288
+Bloodhound,12,14,Spotted,Male,Female,0.4544
+Bull Terrier,8,45,Gray,Female,Female,0.4033
+Pug,8,36,Black and Tan,Male,Male,0.5103
+Shetland Sheepdog,4,59,Bicolor,Male,Female,0.4634
+Havanese,1,40,Blue,Male,Female,0.4429
+Dachshund,11,55,Brown,Female,Female,0.4992
+Pekingese,6,17,Cream,Male,Female,0.4994
+Bernese Mountain Dog,12,18,Gray,Male,Female,0.4978
+French Bulldog,1,38,Gray,Female,Female,0.4169
+Shih Tzu,12,36,Black and White,Male,Male,0.536
+French Bulldog,13,27,Sable,Male,Female,0.3932
+Alaskan Malamute,12,47,Bicolor,Male,Female,0.495
+Lhasa Apso,3,14,Spotted,Male,Male,0.5145
+French Bulldog,9,38,Brindle,Female,Male,0.5109
+Lhasa Apso,12,56,Gray,Female,Male,0.5079
+Dogo Argentino,8,44,Gray,Female,Male,0.5144
+Samoyed,14,26,Bicolor,Female,Female,0.4194
+Yorkshire Terrier,7,8,Sable,Male,Female,0.4679
+Alaskan Malamute,1,22,Merle,Female,Female,0.495
+Golden Retriever,4,37,White,Male,Female,0.4082
+Miniature Schnauzer,11,49,Red,Female,Male,0.5438
+Bulldog,10,44,Brindle,Male,Female,0.4861
+Cavalier King Charles Spaniel,14,48,Blue,Female,Female,0.499
+Poodle,1,51,Tricolor,Male,Female,0.4522
+Basenji,7,48,Brindle,Female,Male,0.6021
+Pembroke Welsh Corgi,7,28,Black,Male,Female,0.466
+Havanese,6,47,Blue,Female,Female,0.4394
+French Bulldog,13,23,White,Male,Female,0.3671
+Dachshund,5,27,White,Male,Female,0.4457
+Rottweiler,10,24,Red,Female,Female,0.4413
+Shiba Inu,11,53,Brindle,Female,Male,0.5504
+Basenji,12,34,Brown,Female,Male,0.5782
+Jack Russell Terrier,3,34,Blue,Male,Female,0.4961
+Shetland Sheepdog,5,49,Tan,Male,Female,0.484
+Doberman Pinscher,5,6,Gray,Female,Female,0.4556
+Pembroke Welsh Corgi,7,11,Blue,Female,Female,0.4918
+Jack Russell Terrier,4,56,Brindle,Male,Male,0.5034
+Beagle,11,18,Tricolor,Male,Female,0.4954
+Belgian Malinois,11,44,Spotted,Female,Male,0.5292
+Rottweiler,9,43,Merle,Male,Female,0.4823
+Border Collie,8,24,White,Male,Female,0.4559
+Bernese Mountain Dog,14,20,Tricolor,Female,Female,0.4413
+Dogo Argentino,2,43,Merle,Female,Male,0.5166
+Cocker Spaniel,6,54,Red,Male,Female,0.418
+Havanese,5,47,Tricolor,Female,Female,0.2902
+Miniature Schnauzer,12,15,Gray,Male,Male,0.5417
+Pembroke Welsh Corgi,2,48,Black and Tan,Female,Female,0.4918
+Maltese,14,14,Blue,Female,Female,0.4906
+Pug,13,58,Tan,Female,Female,0.4687
+Bloodhound,3,50,Sable,Female,Female,0.4756
+Bichon Frise,3,25,Blue,Male,Male,0.5551
+Whippet,9,42,Black,Female,Female,0.4354
+West Highland White Terrier,10,59,Spotted,Female,Female,0.4579
+Bloodhound,5,39,Merle,Male,Female,0.4766
+Siberian Husky,3,10,Tricolor,Female,Female,0.3965
+Pembroke Welsh Corgi,14,55,Black and White,Female,Female,0.4918
+Cavalier King Charles Spaniel,5,17,Merle,Male,Female,0.4683
+Boston Terrier,5,44,Red,Male,Female,0.4216
+Airedale Terrier,12,54,Tricolor,Male,Female,0.4914
+Pug,12,31,Gray,Female,Female,0.4821
+Vizsla,13,55,Black and White,Male,Male,0.5736
+Pekingese,5,12,Tricolor,Female,Male,0.5096
+Border Collie,5,54,Black and White,Female,Male,0.5382
+Pomeranian,4,9,Brindle,Male,Male,0.5642
+Rottweiler,6,52,Tan,Female,Female,0.4726
+West Highland White Terrier,9,46,Spotted,Female,Female,0.4588
+Boston Terrier,1,45,Black and Tan,Female,Female,0.4967
+Beagle,7,22,Blue,Male,Male,0.5801
+Bernese Mountain Dog,5,21,Tricolor,Male,Female,0.443
+Labrador Retriever,1,26,Black,Female,Female,0.4879
+Shetland Sheepdog,8,42,Black,Male,Female,0.4784
+Schnauzer,7,50,Sable,Female,Female,0.47
+Pomeranian,9,10,Merle,Male,Male,0.5129
+Cocker Spaniel,10,21,Brindle,Male,Male,0.5075
+Boston Terrier,3,31,Black and White,Male,Male,0.5194
+Yorkshire Terrier,12,16,Tricolor,Female,Female,0.4332
+Basenji,2,33,Blue,Male,Male,0.5882
+Cavalier King Charles Spaniel,9,11,Brindle,Male,Male,0.5164
+Pekingese,10,49,Sable,Female,Male,0.5098
+Bull Terrier,3,8,Brown,Male,Female,0.4283
+Bloodhound,10,45,White,Female,Female,0.4549
+Rottweiler,2,10,Tan,Female,Female,0.4783
+Poodle,6,55,Sable,Male,Female,0.4672
+Dogo Argentino,12,41,Brown,Female,Male,0.5459
+Boxer,10,17,Black,Male,Female,0.4429
+Lhasa Apso,8,15,Black and Tan,Male,Female,0.4947
+Airedale Terrier,9,39,Brown,Female,Male,0.5027
+Bulldog,5,57,Red,Female,Female,0.3843
+Vizsla,3,23,Sable,Male,Female,0.4836
+French Bulldog,4,8,Sable,Male,Female,0.3834
+Weimaraner,7,37,Brown,Male,Female,0.4953
+Boston Terrier,8,53,Black,Male,Female,0.4652
+Airedale Terrier,13,36,Brindle,Female,Male,0.5159
+Bull Terrier,11,30,Red,Female,Female,0.365
+Akita,8,11,Cream,Female,Male,0.5218
+Rottweiler,4,41,Brindle,Female,Male,0.524
+German Shepherd,1,22,Tricolor,Female,Female,0.4022
+Doberman Pinscher,10,59,Black,Female,Female,0.4717
+Schnauzer,4,52,Blue,Male,Male,0.5744
+Pekingese,2,35,Merle,Female,Male,0.5095
+Pembroke Welsh Corgi,8,18,Brindle,Female,Female,0.4956
+Cocker Spaniel,2,54,Spotted,Male,Female,0.4548
+French Bulldog,7,55,Black and Tan,Male,Female,0.4898
+Irish Setter,2,28,Merle,Female,Female,0.3928
+Rottweiler,5,14,Spotted,Male,Female,0.4601
+Samoyed,12,18,Spotted,Male,Female,0.4258
+Border Collie,14,50,Tan,Female,Female,0.4699
+Papillon,7,55,Black and White,Female,Male,0.5264
+Bull Terrier,6,28,Sable,Female,Female,0.3924
+Cocker Spaniel,3,7,Gray,Male,Female,0.4479
+Jack Russell Terrier,8,9,Cream,Female,Female,0.4357
+Yorkshire Terrier,11,27,Blue,Male,Male,0.6322
+Bull Terrier,11,50,Tan,Male,Female,0.3956
+Weimaraner,3,12,Sable,Female,Female,0.4376
+Pekingese,6,31,Blue,Female,Female,0.4985
+Lhasa Apso,14,45,Gray,Female,Male,0.5087
+Great Dane,3,52,Tan,Female,Female,0.4801
+Irish Setter,12,54,Tricolor,Female,Female,0.3647
+Cocker Spaniel,2,14,Black and Tan,Female,Female,0.4839
+German Shepherd,6,13,Bicolor,Female,Female,0.426
+Rottweiler,7,48,Sable,Female,Female,0.4653
+Yorkshire Terrier,2,20,Sable,Male,Female,0.4791
+Beagle,3,59,Red,Male,Male,0.5006
+Weimaraner,1,44,Merle,Male,Female,0.4734
+Airedale Terrier,14,40,Brown,Male,Female,0.4925
+Shiba Inu,14,28,Blue,Male,Male,0.5165
+Doberman Pinscher,12,16,Red,Male,Female,0.4167
+Shiba Inu,10,37,Gray,Female,Female,0.449
+Havanese,6,35,Black,Male,Female,0.4259
+Rottweiler,7,37,Bicolor,Female,Female,0.4329
+Cocker Spaniel,7,13,Tricolor,Male,Female,0.4092
+Airedale Terrier,13,47,Tricolor,Female,Female,0.4878
+German Shepherd,3,41,Spotted,Female,Female,0.4612
+Cavalier King Charles Spaniel,10,58,Spotted,Female,Female,0.4449
+Yorkshire Terrier,2,33,Black and White,Male,Male,0.628
+Belgian Malinois,11,34,Black and White,Male,Male,0.5963
+Siberian Husky,10,45,Bicolor,Male,Female,0.4563
+Golden Retriever,14,13,Tricolor,Male,Female,0.3841
+Bull Terrier,7,34,Black and Tan,Male,Female,0.4419
+Pekingese,12,32,Merle,Male,Male,0.5189
+Havanese,6,31,Brindle,Female,Female,0.4621
+Airedale Terrier,3,14,Cream,Male,Female,0.4852
+French Bulldog,8,26,Blue,Male,Female,0.4953
+Havanese,3,41,Black and Tan,Male,Female,0.4352
+Bulldog,5,35,Black and White,Male,Female,0.4896
+Cavalier King Charles Spaniel,13,51,White,Male,Female,0.439
+Havanese,4,48,Red,Male,Female,0.2957
+Poodle,7,12,Red,Female,Female,0.4453
+Poodle,10,57,Tricolor,Male,Female,0.447
+Samoyed,8,52,Black and White,Female,Male,0.5091
+Weimaraner,2,43,Black and White,Male,Male,0.5527
+Bloodhound,5,14,Brindle,Female,Male,0.5274
+Havanese,8,18,Brindle,Female,Female,0.4623
+Border Collie,12,41,Blue,Female,Male,0.5323
+Rottweiler,5,58,Merle,Female,Female,0.4859
+Pug,4,22,Spotted,Male,Female,0.4702
+Yorkshire Terrier,1,24,Gray,Male,Male,0.5549
+Dachshund,13,19,Black and Tan,Female,Male,0.5005
+Dogo Argentino,10,37,Brown,Male,Male,0.549
+Lhasa Apso,2,33,Tan,Male,Male,0.513
+Vizsla,11,30,Blue,Female,Male,0.5655
+Vizsla,12,39,Gray,Male,Female,0.4929
+Bichon Frise,1,25,Blue,Male,Male,0.5507
+Labrador Retriever,7,56,Brindle,Male,Female,0.4953
+Yorkshire Terrier,5,9,Black,Female,Female,0.4603
+Saint Bernard,4,37,Merle,Female,Female,0.4452
+Bichon Frise,6,14,White,Male,Female,0.464
+Belgian Malinois,9,41,White,Male,Male,0.5468
+Great Dane,3,56,Black and White,Male,Male,0.5327
+Chesapeake Bay Retriever,14,59,White,Male,Female,0.4501
+Bernese Mountain Dog,10,40,Spotted,Male,Female,0.4756
+French Bulldog,11,6,Black and White,Male,Female,0.4942
+Airedale Terrier,10,46,Brown,Female,Male,0.5008
+Lhasa Apso,9,37,Blue,Male,Male,0.512
+Rottweiler,10,39,Gray,Male,Female,0.4812
+Pug,2,10,Brown,Male,Female,0.491
+Boxer,12,12,Tricolor,Female,Female,0.3946
+French Bulldog,1,35,Black and White,Female,Male,0.5077
+Vizsla,8,18,Bicolor,Female,Female,0.4602
+West Highland White Terrier,14,33,Bicolor,Male,Female,0.4521
+Great Dane,9,11,Gray,Female,Female,0.4642
+West Highland White Terrier,2,59,Brown,Male,Male,0.5338
+French Bulldog,10,9,Spotted,Female,Female,0.3761
+Labrador Retriever,7,12,Gray,Female,Female,0.4487
+Poodle,7,26,Brown,Female,Female,0.4952
+Schnauzer,7,35,Merle,Male,Female,0.499
+Irish Setter,14,40,Sable,Female,Female,0.3845
+Irish Setter,3,17,Brown,Male,Female,0.3963
+Pomeranian,12,46,Gray,Male,Male,0.5016
+Jack Russell Terrier,8,37,Sable,Female,Female,0.4532
+Papillon,11,36,Brown,Female,Male,0.5017
+Belgian Malinois,12,32,Merle,Female,Male,0.5421
+Pug,9,5,Tan,Male,Female,0.4715
+Weimaraner,1,26,Black and White,Male,Male,0.546
+Havanese,5,6,Brindle,Male,Female,0.4483
+Poodle,7,26,Blue,Male,Male,0.5317
+Yorkshire Terrier,12,10,Sable,Female,Female,0.4632
+Rottweiler,14,7,Brindle,Male,Female,0.4872
+Boxer,5,38,Black and Tan,Male,Female,0.4969
+Pekingese,2,33,Merle,Male,Male,0.5097
+Pug,11,18,Brown,Female,Female,0.489
+Dogo Argentino,7,57,Spotted,Male,Female,0.4802
+West Highland White Terrier,1,14,Bicolor,Male,Female,0.4712
+Pembroke Welsh Corgi,1,17,Spotted,Female,Female,0.5
+Labrador Retriever,9,57,Bicolor,Male,Female,0.4594
+Shih Tzu,10,23,Merle,Female,Female,0.4763
+Cocker Spaniel,11,48,Red,Male,Female,0.4152
+Basenji,14,15,Cream,Male,Male,0.5543
+Bloodhound,11,37,Red,Female,Female,0.4378
+Boxer,7,46,White,Female,Female,0.4177
+Basenji,6,54,Black and White,Female,Male,0.6061
+Bull Terrier,5,58,Red,Female,Female,0.3706
+Boxer,11,14,Tan,Female,Female,0.4367
+Airedale Terrier,13,30,Merle,Female,Female,0.4924
+Beagle,1,25,Brown,Male,Male,0.5516
+Shetland Sheepdog,10,34,Merle,Female,Female,0.496
+German Shepherd,13,40,Tan,Female,Female,0.4416
+West Highland White Terrier,1,9,Merle,Female,Female,0.4959
+Akita,5,21,Black and White,Female,Male,0.5597
+Maltese,12,43,Blue,Female,Female,0.4922
+Australian Shepherd,13,50,Brindle,Male,Male,0.584
+Poodle,11,38,Black and White,Female,Male,0.5136
+French Bulldog,12,43,Gray,Female,Female,0.4056
+Border Collie,10,29,Spotted,Female,Female,0.4565
+Saint Bernard,12,53,Black,Male,Female,0.4489
+Pug,14,52,Sable,Male,Female,0.4675
+Boston Terrier,6,17,Cream,Male,Female,0.4826
+Boston Terrier,4,52,Cream,Male,Female,0.4795
+Pekingese,3,9,Bicolor,Male,Male,0.5055
+Saint Bernard,2,56,Merle,Female,Female,0.4499
+Airedale Terrier,5,18,Black and White,Male,Male,0.5207
+Rottweiler,13,51,Brown,Female,Female,0.4851
+Belgian Malinois,9,27,Blue,Male,Male,0.5973
+French Bulldog,8,17,Cream,Female,Female,0.4227
+Saint Bernard,11,6,White,Female,Female,0.4111
+Bulldog,14,50,Merle,Female,Female,0.4285
+Havanese,3,29,Spotted,Female,Female,0.3175
+Bichon Frise,6,30,White,Female,Female,0.4809
+Maltese,7,20,Sable,Female,Female,0.491
+Australian Shepherd,6,59,Black,Female,Male,0.5689
+Saint Bernard,5,13,Cream,Male,Female,0.4525
+Shetland Sheepdog,6,11,Black,Female,Female,0.4774
+Dogo Argentino,3,49,Red,Female,Female,0.4588
+Australian Shepherd,4,10,Black,Female,Male,0.5555
+Shih Tzu,12,50,Black and White,Female,Male,0.5385
+Basenji,3,45,Black and Tan,Male,Male,0.5977
+Pembroke Welsh Corgi,12,52,Brown,Male,Female,0.4918
+French Bulldog,9,6,Black and Tan,Male,Female,0.4775
+Cavalier King Charles Spaniel,2,17,Black,Female,Female,0.4774
+Papillon,13,36,Brown,Female,Male,0.5036
+Chinese Shar-Pei,7,25,Black and White,Female,Male,0.548
+Irish Setter,13,26,White,Male,Female,0.3692
+Alaskan Malamute,5,31,Gray,Female,Male,0.5034
+Cocker Spaniel,7,40,Black and Tan,Female,Female,0.4999
+Beagle,5,34,Tan,Female,Male,0.5219
+Irish Setter,6,58,Black and White,Male,Female,0.482
+Shih Tzu,12,28,Black and White,Male,Male,0.5324
+Chihuahua,7,31,Black,Female,Female,0.4449
+Boxer,14,32,Gray,Female,Female,0.4427
+Bloodhound,14,10,Blue,Male,Female,0.4972
+Akita,2,14,Black,Male,Male,0.5213
+Dogo Argentino,11,42,Black,Male,Male,0.5106
+Beagle,6,14,Brown,Female,Male,0.564
+Shih Tzu,2,59,Cream,Female,Female,0.4781
+Belgian Malinois,10,37,Spotted,Female,Male,0.5287
+Cavalier King Charles Spaniel,8,23,Tan,Male,Female,0.4599
+Jack Russell Terrier,4,32,Tan,Female,Female,0.4609
+Pekingese,11,25,Brindle,Female,Female,0.4978
+Saint Bernard,3,47,Tan,Female,Female,0.4529
+Pug,7,25,Merle,Female,Female,0.4769
+Samoyed,8,13,Black and Tan,Female,Female,0.4924
+Great Dane,12,46,Brown,Male,Female,0.4912
+Pomeranian,10,36,Red,Male,Female,0.48
+Yorkshire Terrier,9,52,Tricolor,Female,Female,0.4464
+Boxer,8,7,Red,Female,Female,0.4041
+Shetland Sheepdog,13,27,White,Female,Female,0.4496
+Havanese,11,56,Brown,Female,Female,0.3656
+Shih Tzu,3,19,Merle,Male,Female,0.4751
+Great Dane,6,12,Brindle,Male,Male,0.5345
+Bichon Frise,14,11,Brindle,Male,Male,0.5517
+Irish Setter,13,52,Tricolor,Female,Female,0.3637
+Saint Bernard,2,32,Brindle,Female,Male,0.5309
+Chinese Shar-Pei,11,48,Sable,Male,Female,0.4337
+Bichon Frise,6,36,Brown,Male,Male,0.5507
+Miniature Schnauzer,12,41,Gray,Female,Male,0.5402
+Siberian Husky,9,53,Black and White,Male,Male,0.5535
+Shiba Inu,9,53,Spotted,Female,Female,0.4242
+Lhasa Apso,12,7,Black and Tan,Female,Female,0.4932
+Cocker Spaniel,7,21,Brown,Female,Female,0.4779
+Papillon,3,58,Cream,Male,Female,0.4841
+Chinese Shar-Pei,10,41,White,Male,Female,0.4221
+Maltese,9,43,Merle,Male,Female,0.4991
+Pembroke Welsh Corgi,3,55,Brown,Female,Female,0.4918
+Saint Bernard,10,19,White,Male,Female,0.4181
+Pug,10,42,Black,Male,Female,0.461
+Chinese Shar-Pei,8,50,Black and Tan,Male,Male,0.5285
+German Shepherd,3,40,Black and White,Female,Male,0.5176
+Bulldog,7,12,Black and Tan,Female,Female,0.4546
+Siberian Husky,7,22,Gray,Female,Female,0.4508
+Jack Russell Terrier,4,21,Black and White,Male,Male,0.5017
+Bloodhound,13,8,Black and White,Male,Male,0.5129
+Siberian Husky,2,24,Tan,Female,Female,0.4559
+Shiba Inu,5,43,Merle,Male,Female,0.4541
+Pembroke Welsh Corgi,4,14,White,Male,Female,0.4885
+Labrador Retriever,6,42,Sable,Male,Female,0.4615
